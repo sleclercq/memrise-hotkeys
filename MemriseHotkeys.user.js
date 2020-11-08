@@ -4,6 +4,7 @@
 // @match          https://www.memrise.com/course/*/garden/*
 // @match          https://www.memrise.com/garden/review/*
 // @version        0.1.2
+// @license        MIT;
 // @updateURL      https://userscripts.org/scripts/source/166711.meta.js
 // @downloadURL    https://userscripts.org/scripts/source/166711.user.js
 // ==/UserScript==
