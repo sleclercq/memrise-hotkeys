@@ -26,7 +26,7 @@ function main() {
 		jQuery.event.trigger({ type: 'keydown', which: keyCode, target: $('body') });
 	};
 
-	var keyMap   = { 113: 53, 119: 54, 101: 55, 114: 56 };
+	var keyMap   = { 97: 53, 122: 54, 101: 55, 114: 56 };
 	var indexMap = { '5': 'a', '6': 'z', '7': 'e', '8': 'r' };
 
 	$(document).on('keypress', function(e) {
