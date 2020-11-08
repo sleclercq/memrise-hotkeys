@@ -27,7 +27,7 @@ function main() {
 	};
 
 	var keyMap   = { 113: 53, 119: 54, 101: 55, 114: 56 };
-	var indexMap = { '5': 'q', '6': 'w', '7': 'e', '8': 'r' };
+	var indexMap = { '5': 'a', '6': 'z', '7': 'e', '8': 'r' };
 
 	$(document).on('keypress', function(e) {
 		if ($(e.target).is('input')) {

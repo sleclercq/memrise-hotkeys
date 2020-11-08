@@ -1,15 +1,15 @@
-memrise-hotkeys
-===============
+memrise-hotkeys-azerty
+======================
+
+A fork of [the original memrise-hotkeys](http://github.com/raneksi/memrise-hotkeys) script, for azerty keyboards.
 
 Makes the hotkeys for multiple choice questions more comfortable on Memrise
 
 ![](https://raw.github.com/raneksi/memrise-hotkeys/gh-pages/garden_multiple_choice.png)
 
-Also check out [Memrise Button](https://chrome.google.com/webstore/detail/memrise-button/mahhgdkliaknjffpmocpaglcoljnhodn), my Chrome extension for Memrise.
-
 # Installation
 
-I have tested the userscript on Chrome and Firefox using Greasemonkey.
+I have tested the userscript on Chrome. Instructions for Firefox are kept here for whoever wants to try.
 
 ## Firefox
 
