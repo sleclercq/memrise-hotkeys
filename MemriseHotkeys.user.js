@@ -4,8 +4,8 @@
 // @match          https://app.memrise.com/course/*/garden/*
 // @version        0.1.2
 // @license        MIT
-// @updateURL      https://openuserjs.org/scripts/lair/Memrise_Hotkeys
-// @downloadURL    https://openuserjs.org/scripts/lair/Memrise_Hotkeys
+// @updateURL      https://openuserjs.org/meta/lair/Memrise_Hotkeys.meta.js
+// @downloadURL    https://openuserjs.org/install/lair/Memrise_Hotkeys.user.js
 // ==/UserScript==
 
 function addjQuery(callback) {
